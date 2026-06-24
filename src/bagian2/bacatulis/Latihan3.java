@@ -10,7 +10,7 @@ import java.io.PrintWriter;
 
 /**
  *
- * @author Raihan
+ * @author Nayla Syazana Aziza 2410010547
  */
 public class Latihan3 {
     public static void main(String[] args) {
